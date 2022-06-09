@@ -2,11 +2,7 @@
 ## Hỗ trợ
 - Windows
 
-- Ubuntu
-
-- Centos
-
-- Debian
+- Linux
 
 - Termux
 
